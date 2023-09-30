@@ -1,0 +1,142 @@
+body{
+  background-color: #dfd0bf;  
+}
+header{
+    font-family: Georgia,serif;
+    color:#256B86;
+    text-align: center;
+}
+nav a{
+    list-style-type: none;
+    list-style: inline;
+    text-decoration: none ;
+    color:white;
+}
+nav {
+   background-color: #256B86;
+    border:1px solid #256B86;
+    width:1250px;
+    height:50px;
+    text-align: center;
+    padding-top:15px ;
+    font-size:  20px;
+
+}
+body{
+    font-size: 1.1em;
+}
+.body1 h2{
+    font-weight: bold;
+    font-style: oblique;
+    color:#256B86
+}
+span{
+    text-decoration:underline;
+    color: #256B86;
+}
+.body2 h2{
+    font-weight: bold;
+    font-style: oblique;
+    color:#256B86
+}
+.body2 img{
+   width:40%;
+   height:300px;
+   border: medium ridge #256B86 ;
+   margin-left: 5px;
+}
+
+.body3 h2{
+    font-weight: bold;
+    font-style: oblique;
+    color:#256B86
+}
+.body3 dt{
+    font-weight: bold;
+    font-style: italic;
+}
+.body3 h3{
+    width: 500px;
+    border-bottom:4px ridge #256B86;
+}
+.body3 img{
+    width:40%;
+    height:300px;
+    border: medium ridge #256B86 ;
+    margin-left: 5px;
+}
+.body4 h2{
+    font-weight: bold;
+    font-style: oblique;
+    color:#256B86
+}
+.body4 th{
+    background-color: #256B86;
+    color: white;
+}
+.body4 h3{
+    width: 350px;
+    border-bottom:4px ridge #256B86;
+}
+.body4 img{
+    width:40%;
+    height:300px;
+    border: medium ridge #256B86 ;
+    margin-left: 5px;
+}
+.body1 img{
+    width:40%;
+    height:300px;
+    border:3px ridge #256B86;
+}
+.body5 h2{
+    font-weight: bold;
+    font-style: oblique;
+    color:#256B86;
+}
+.body5 ol{
+    font-style: italic;
+}
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 30%;
+    padding:50px;
+    
+}
+.body5 img{
+    border:3px solid #256B86;
+    width:300px;
+    height: 200px;
+}
+figcaption{
+    text-align: center;
+}
+.row{
+    content:"";
+    display: table;
+    clear:both;
+}
+.end h2{
+    font-weight: bold;
+    font-style: oblique;
+    color:#256B86
+}
+.end a{
+    color: 	#e2762f;
+}
+footer{
+    background-color: #256B86;
+    border:1px solid #256B86;
+    width:1250px;
+    height:60px;
+    text-align: center;
+    padding-top:2px ;
+    font-size:  15px;
+    color:white;
+}
+footer a{
+    color: #e2762f;
+}
